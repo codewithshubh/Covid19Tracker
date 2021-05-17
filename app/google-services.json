@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034614434890",
+    "firebase_url": "https://covid19-tracker-app-8cbdf.firebaseio.com",
+    "project_id": "covid19-tracker-app-8cbdf",
+    "storage_bucket": "covid19-tracker-app-8cbdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034614434890:android:316b5fc9be9b9eddac0ab3",
+        "android_client_info": {
+          "package_name": "com.codewithshubh.covid19tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034614434890-5672lpt6tp6pqt6sfr63amm44vik5cu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzB7UD3Kjg21e_K4DS2j2ppfMXBNjxlMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034614434890-5672lpt6tp6pqt6sfr63amm44vik5cu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
